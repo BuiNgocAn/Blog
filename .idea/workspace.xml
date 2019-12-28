@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f2d3bb5a-6a82-4d73-a113-0bf6081f16b7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/adminmaster.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/adminmaster.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +159,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577521791749</updated>
-      <workItem from="1577521793429" duration="4047000" />
+      <workItem from="1577521793429" duration="4282000" />
     </task>
     <servers />
   </component>
@@ -174,9 +175,9 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="308" y="27" width="683" height="729" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1577524172472" />
-    <state x="315" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1577527652461">
+    <state x="315" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1577528290364">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="315" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1577527652461" />
+    <state x="315" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1577528290364" />
   </component>
 </project>
