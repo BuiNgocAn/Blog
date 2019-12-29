@@ -21,9 +21,11 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('post', 'PostController@index');
 
-Route::get('/{anypath}','HomeController@index')->where('path','.*');
+//Route::get('/{anypath}','HomeController@index')->where('path','.*');
 
 //Category
-
+Route::get('category','CategoryController@index');
 Route::post('/add-category','CategoryController@store');
+
+
 

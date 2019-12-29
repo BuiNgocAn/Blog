@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use App\Category;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -25,4 +25,12 @@ class HomeController extends Controller
     {
         return view('admin/adminmaster');
     }
+
+    public function all_category(){
+        $categories = Category::all();
+        return response()->json([
+            'categories'=>$categories
+        ],200);
+    }
+
 }
