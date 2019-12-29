@@ -11,12 +11,11 @@
                         </div>
                         <!-- /.card-header -->
                         <!-- form start -->
-                        <form role="form">
+                        <form role="form" @click.prevent="addCategory()">
                             <div class="card-body">
                                 <div class="form-group">
                                     <label for="categoryId">Add New Category</label>
-                                    <input type="text" class="form-control" id="categoryId" placeholder="Add New Category">
-                                </div>
+                                    <input type="text" class="form-control" id="categoryId" placeholder="Add New Category" v-model="form.cat_name" name="cat_name">                                </div>
 
                             </div>
                             <!-- /.card-body -->
@@ -38,7 +37,26 @@
 
 <script>
     export default {
-        name: "New.vue"
+        name: "New",
+        data(){
+            return {
+                form: new Form({
+                    cat_name:''
+                })
+            }
+        },
+        methods:{
+            addCategory(){
+                this.form.post('/add-category')
+                    .then((response)=>{
+                        console.log(response.data)
+                    })
+                    .catch(()=>{
+
+                    })
+
+            }
+        }
     }
 </script>
 
