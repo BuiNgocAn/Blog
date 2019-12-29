@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2d3bb5a-6a82-4d73-a113-0bf6081f16b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/js/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/filter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/components/admin/category/List.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/admin/category/List.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/admin/category/View.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/admin/category/Edit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -173,7 +173,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577521791749</updated>
-      <workItem from="1577521793429" duration="15569000" />
+      <workItem from="1577521793429" duration="18488000" />
     </task>
     <servers />
   </component>
@@ -193,13 +193,13 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="433" y="315" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.777@0.23.1280.777" timestamp="1577525240716" />
-    <state x="308" y="27" width="683" height="729" key="find.popup" timestamp="1577524172472">
+    <state x="308" y="27" width="683" height="729" key="find.popup" timestamp="1577633736906">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="308" y="27" width="683" height="729" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1577524172472" />
-    <state x="315" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1577622388461">
+    <state x="308" y="27" width="683" height="729" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1577633736906" />
+    <state x="315" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1577633663810">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="315" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1577622388461" />
+    <state x="315" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1577633663810" />
   </component>
 </project>

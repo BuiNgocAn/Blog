@@ -9,6 +9,9 @@ const store = new Vuex.Store(
     storeData
 );
 
+//support moment js
+import {filter} from './filter'
+
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 

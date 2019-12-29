@@ -58,37 +58,26 @@ class CategoryController extends Controller
         //
     }
 
-    /**
-     * Show the form for editing the specified resource.
-     *
-     * @param  \App\Category  $category
-     * @return \Illuminate\Http\Response
-     */
-    public function edit(Category $category)
+    public function edit_category($id)
     {
-        //
+        $category = Category::find($id);
+        return response()->json([
+            'category'=>$category
+        ],200);
     }
 
-    /**
-     * Update the specified resource in storage.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Category  $category
-     * @return \Illuminate\Http\Response
-     */
-    public function update(Request $request, Category $category)
-    {
-        //
+    public function update_category(Request $request,$id){
+        $this->validate($request,[
+            'cat_name'=>'required|min:2|max:50'
+        ]);
+        $category = Category::find($id);
+        $category->cat_name = $request->cat_name;
+        $category->save();
     }
 
-    /**
-     * Remove the specified resource from storage.
-     *
-     * @param  \App\Category  $category
-     * @return \Illuminate\Http\Response
-     */
-    public function destroy(Category $category)
+    public function delete_category($id)
     {
-        //
+        $category = Category::find($id);
+        $category->delete();
     }
 }

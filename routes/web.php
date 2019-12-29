@@ -26,6 +26,11 @@ Route::get('post', 'PostController@index');
 //Category
 Route::get('category','CategoryController@index');
 Route::post('/add-category','CategoryController@store');
+Route::get('category/{id}','CategoryController@delete_category');
+Route::get('editcategory/{id}','CategoryController@edit_category');
+Route::post('update-category/{id}','CategoryController@update_category');
+
+
 
 
 
