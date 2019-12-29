@@ -2,16 +2,171 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2d3bb5a-6a82-4d73-a113-0bf6081f16b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/js/filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/contactform/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/contactform/contactform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/css/bootstrap-responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/css/cslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/css/custom-fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/css/fancybox/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/css/fancybox/fancybox_loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/css/fancybox/fancybox_overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/css/fancybox/fancybox_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/css/fancybox/jquery.fancybox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/css/flexslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/css/jcarousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/css/overwrite.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/css/slitslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/font/customicon/Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/font/customicon/Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/font/customicon/Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/font/customicon/Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/font/fontawesome/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/font/fontawesome/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/font/fontawesome/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/font/fontawesome/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/font/fontawesome/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/ico/apple-touch-icon-114-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/ico/apple-touch-icon-144-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/ico/apple-touch-icon-57-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/ico/apple-touch-icon-72-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/ico/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/ico/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/bodybg/bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/bodybg/bg10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/bodybg/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/bodybg/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/bodybg/bg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/bodybg/bg5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/bodybg/bg6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/bodybg/bg7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/bodybg/bg8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/bodybg/bg9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/blog/65x65/thumb1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/blog/65x65/thumb2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/blog/65x65/thumb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/blog/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/blog/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/blog/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/blog/thumbs/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/blog/thumbs/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/blog/thumbs/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/blog/thumbs/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/blog/thumbs/no-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/blog/thumbs/quote-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/blog/thumbs/small1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/clients/client1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/clients/client2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/clients/client3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/clients/client4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/clients/client5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/clients/client6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/dummy-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/team1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/team2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/team3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/team4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/dummies/testimonial-author1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/glyphicons-halflings-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/glyphicons-halflings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/nivo-bullets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/slides/nivo/bg-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/slides/nivo/bg-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/slides/nivo/bg-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/slides/parallax/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/slides/parallax/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/slides/parallax/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/slides/parallax/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/slides/parallax/arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/slides/parallax/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/slides/slitslider/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/slides/slitslider/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/slides/slitslider/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/slides/slitslider/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/slides/slitslider/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/works/full/image-01-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/works/full/image-02-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/works/full/image-03-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/works/full/image-04-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/works/full/image-05-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/works/full/image-06-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/works/full/image-07-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/works/full/image-08-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/works/thumbs/image-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/works/thumbs/image-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/works/thumbs/image-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/works/thumbs/image-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/works/thumbs/image-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/works/thumbs/image-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/works/thumbs/image-07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/img/works/thumbs/image-08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/animate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/google-code-prettify/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/google-code-prettify/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/jcarousel/jquery.jcarousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/jcarousel/setting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/jquery.ba-cond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/jquery.cslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/jquery.fancybox-media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/jquery.fancybox.pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/jquery.flexslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/jquery.nivo.slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/jquery.slitslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/modernizr.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/portfolio/jquery.quicksand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/portfolio/setting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/quicksand/jquery.quicksand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/js/quicksand/setting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/skins/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/skins/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/skins/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/skins/kissme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/skins/lime.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/skins/pink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/skins/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/skins/rose.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/skins/sand.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/public/asset/skins/yellow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploadimage/15995252_1810094515945972_4577977081832791043_o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploadimage/74314212_3287640804610290_4935555272992096256_o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/components/admin/post/Edit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/components/admin/post/List.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/components/admin/post/New.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laravelvueandmore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravelvueandmore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/admin/category/List.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/admin/category/List.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/admin/category/View.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/admin/category/Edit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/filter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/adminmaster.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/adminmaster.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +179,25 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Vue Single File Component" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -124,6 +294,10 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
       <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
       <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
     </include_path>
   </component>
   <component name="ProjectId" id="1VbVTloWxowVLYTYT0LPgOMzPN1" />
@@ -134,16 +308,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets/public" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/assets/public" />
+      <recent name="$PROJECT_DIR$/public/uploadimage" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -173,7 +354,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577521791749</updated>
-      <workItem from="1577521793429" duration="18488000" />
+      <workItem from="1577521793429" duration="24722000" />
     </task>
     <servers />
   </component>
@@ -185,10 +366,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="412" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.777@0.23.1280.777" timestamp="1577528840903" />
-    <state width="557" height="445" key="SwitcherDM" timestamp="1577617327527">
+    <state width="557" height="445" key="SwitcherDM" timestamp="1577639288124">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="557" height="445" key="SwitcherDM/0.23.1280.777@0.23.1280.777" timestamp="1577617327527" />
+    <state width="557" height="445" key="SwitcherDM/0.23.1280.777@0.23.1280.777" timestamp="1577639288124" />
     <state x="433" y="315" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577525240716">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -197,9 +378,9 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="308" y="27" width="683" height="729" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1577633736906" />
-    <state x="315" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1577633663810">
+    <state x="315" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1577641899859">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="315" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1577633663810" />
+    <state x="315" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1577641899859" />
   </component>
 </project>
